@@ -1,0 +1,43 @@
+name 
+no. of player
+count of play game by this player
+no. of game  level  score  live damage background ball degree_level
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+no. of game  level  score  live damage background ball degree_level
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+no. of game  level  score  live damage background ball degree_level
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+no. of game  level  score  live damage background ball degree_level
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+no. of game  level  score  live damage background ball degree_level
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
+strength strength strength strength strength strength strength strength 
